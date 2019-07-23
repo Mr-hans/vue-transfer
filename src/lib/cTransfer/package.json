@@ -1,0 +1,15 @@
+{
+  "name": "transfer",
+  "version": "1.0.0",
+  "description": "基于vue项目的穿梭框插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cTransfer",
+    "transfer"
+  ],
+  "author": "490054410@qq.com",
+  "license": "ISC"
+}
